@@ -1,5 +1,6 @@
 # An App to calculate the sum of two numbers
 # Created by Gloria Apolot
+# Created on March 14, 2020
 
 
 # This file is located in this directory
